@@ -3,3 +3,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    padding: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 { margin-bottom: 25px }
+a { color: teal }
+hr { margin: 15px 0; border: 1px dashed #333 }
+p { font-size: 15px; line-height: 30px }
+p i { color: #555 }
